@@ -24,7 +24,6 @@ Both the user and auth service share a Mongo database that is accessed with mong
 First, clone the project:
 
 ```git clone git@github.com:pglez82/asw2425_0.git```
-
 ### LLM API key configuration
 
 In order to communicate with the LLM integrated in this project, we need to setup an API key. Two integrations are available in this propotipe: gemini and empaphy. The API key provided must match the LLM provider used.
