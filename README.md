@@ -21,6 +21,9 @@ Both the user and auth service share a Mongo database that is accessed with mong
 
 ## Quick start guide
 
+
+
+
 First, clone the project:
 
 ```git clone git@github.com:pglez82/asw2425_0.git```
